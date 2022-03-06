@@ -17,13 +17,22 @@ This script is Brute force gmail
 
 # Installation
 ```bash
-$ git clone https://github.com/fahad123-hub/g-mail-bruteforce.git
+ git clone https://github.com/fahad123-hub/g-mail-bruteforce.git
 ```
+##Command
+```bash
+Chomd +x *
+```
+
 # Command
 ```bash
 python3 gmail-4.py 
 
 ```
+
+
+
+
 
 
 
