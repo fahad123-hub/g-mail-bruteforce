@@ -41,6 +41,7 @@ class GmailBruteForce():
                     sleep(3)
                     # print("\033[1;31msorry \033[1;m")
                     print(("\033[1;31msorry %s <- " % user + " -> %s \033[1;m" % password ))
+                    sleep(3)
 
 def startMessage ():#line:7
     OO0O0OO0OOO0OO0O0 =input (Fore .YELLOW +"Enter Code To Unlock The Tool : ")#line:8
