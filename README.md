@@ -19,7 +19,7 @@ This script is Brute force gmail
 ```bash
  git clone https://github.com/fahad123-hub/g-mail-bruteforce.git
 ```
-##Command
+# Command
 ```bash
 Chomd +x *
 ```
