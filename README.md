@@ -1,9 +1,8 @@
 # Brute-force-gmail
 Brute force gmail hack 2022
 
-## Author: https://www.snapchat.com/add/flaah999
+##RED HACKERS ARMY
 
-# 0xfff0800
 
 This script is Brute force gmail
 
@@ -18,8 +17,8 @@ This script is Brute force gmail
 
 # Installation
 ```bash
-$ git clone https://github.com/0xfff0800/Brute-force-gmail.git
-```
+$ git clone https://github.com/fahad123-hub/g-mail-bruteforce.git
+
 # Command
 ```bash
 python3 gmail-4.py 
