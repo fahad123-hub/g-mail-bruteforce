@@ -46,8 +46,8 @@ print('''
 	==================================
 	|      [Gmail] ==> 4             |
 	|--------------------------------|
-	| snapchat: flaah999             |
-	| CoDeD By TA Hacker (@0xfff0800)|
+	| RED HACKERS ARMY         |
+	| CoDeD By RED HACKER|
 	|--------------------------------|
 	''')
 
