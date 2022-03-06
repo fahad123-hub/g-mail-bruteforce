@@ -43,17 +43,6 @@ class GmailBruteForce():
                     print(("\033[1;31msorry %s <- " % user + " -> %s \033[1;m" % password ))
                     sleep(3)
 
-import time #line:3
-from colorama import Fore ,Back ,Style ,init #line:4
-init (autoreset =True )#line:5
-sleep(3)
-def startMessage ():#line:7
-    OO0O0OO0OOO0OO0O0 =input (Fore .YELLOW +"Enter Code To Unlock The Tool : ")#line:8
-    OOOO0OO000OO0OOOO ="RedHackers ArmY"#line:9
-    if OOOO0OO000OO0OOOO !=OO0O0OO0OOO0OO0O0 :#line:10
-        print (Fore .RED +'[X] Wrong Code')#line:11
-        print (Fore .BLUE +''' 
-
 print('''
 	==================================
 	|      [Gmail] ==> 4             |
